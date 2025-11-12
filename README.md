@@ -77,20 +77,13 @@ xnor g7(c7,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable:**
-
 ![WhatsApp Image 2025-11-12 at 10 47 01_8ff9e41a](https://github.com/user-attachments/assets/1ac8fb15-0b38-497f-a9a9-ab177c2b4ea7)
 
-
 **RTL realization Output:** 
-
 <img width="1776" height="860" alt="de" src="https://github.com/user-attachments/assets/62b03e50-d0b5-49bb-8480-4d5421ab7dc5" />
 
-
 **RTL**
-
 <img width="1920" height="1080" alt="de1" src="https://github.com/user-attachments/assets/1f1474a3-3b84-4879-b796-dc3452c40458" />
 
-
 **Result:**
-
 All the logic gates and their corresponding truth tables were successfully designed and verified using Quartus II software.
