@@ -76,7 +76,8 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+
 ![WhatsApp Image 2025-11-12 at 10 47 01_8ff9e41a](https://github.com/user-attachments/assets/1ac8fb15-0b38-497f-a9a9-ab177c2b4ea7)
 
 
