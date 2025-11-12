@@ -92,5 +92,5 @@ endmodule
 
 
 **Result:**
-Thus all logic gates are studied and truth table are studied and verified using Quartus II.
 
+All the logic gates and their corresponding truth tables were successfully designed and verified using Quartus II software.
