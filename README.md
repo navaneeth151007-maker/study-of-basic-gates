@@ -87,4 +87,5 @@ endmodule
 <img width="1920" height="1080" alt="de1" src="https://github.com/user-attachments/assets/1f1474a3-3b84-4879-b796-dc3452c40458" />
 
 **Result:**
-All the logic gates and their corresponding truth tables were successfully designed and verified using Quartus II software.
+
+Thus the logic gates and their corresponding truth tables were successfully designed and verified using Quartus II software.
